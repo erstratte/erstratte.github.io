@@ -1,0 +1,23 @@
+body {
+  font-family: arial;
+  background-color: white;
+}
+
+p {
+  font-family: arial;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: Times New Roman
+    ;
+  font-size: 40px;
+  color: #000000;
+}
+
+.fancy {
+  font-family: Baskerville;
+  font-size: 30px;
+  color: #a83297
+}
+
